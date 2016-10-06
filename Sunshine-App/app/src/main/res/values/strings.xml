@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Sunshine-App</string>
+    <string name="app_name">Sunshine Again</string>
+    <string name="another_name">Button Example</string>
+    <string name="button_name">Click Here</string>
 </resources>
